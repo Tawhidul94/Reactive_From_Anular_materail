@@ -1,0 +1,32 @@
+{
+  "productList": [
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "date": "2022-09-05T18:00:00.000Z",
+      "freshness": "New Brand",
+      "price": 300,
+      "comment": "fress apple",
+      "id": 1
+    },
+    {
+      "productName": "Samsung A10s",
+      "category": "Electronic",
+      "date": "2022-09-05T18:00:00.000Z",
+      "freshness": "Second Hand",
+      "price": 10000,
+      "comment": "This product is good",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
